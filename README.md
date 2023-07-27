@@ -6,10 +6,10 @@ An average surgeon spends 15 hours carrying out medical surgeries and may need a
 After the surgeon is done using the instrument, it is handed over to the robot and it places the used instrument on the conveyor belt. The conveyor belt is set to motion to carry the used instruments for further sterilization.
 
 ### Features:
-  ▸ Seamless integration of the Niryo Ned 2 robot as a Surgical Assistant.
-  ▸ Efficient transfer of instruments from the robot to surgeon and vice-versa.
-  ▸ Automated handling of used instruments for sterlization through a conveyor belt.
-  ▸ Improved surgical workflow and safety.
+▸ Seamless integration of the Niryo Ned 2 robot as a Surgical Assistant <br />
+▸ Efficient transfer of instruments from the robot to surgeon and vice-versa <br />
+▸ Automated handling of used instruments for sterlization through a conveyor belt <br />
+▸ Improved surgical workflow and safety <br />
 
 #### Refer the following Ned ROS documentation for installation and setup:
 https://docs.niryo.com/dev/ros/v4.1.1/en/index.html
