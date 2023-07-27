@@ -1,4 +1,4 @@
-# NiryoNed2-Surgeon-Assistant
+# NiryoNed2-Surgeon-Assistant🦾
 Enhancing Surgical Efficiency through the Integration of Niryo Ned 2 Robot for Equipment Assistance. The NIRYO NED 2 Robotic Arm serves as a surgeon assistant, significantly enhancing surgical workflow and safety. It identifies and gives the instruments to the surgeon, also moves the used instruments for sterilization using a conveyor belt.
 
 ### Abstract: 
