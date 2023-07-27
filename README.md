@@ -5,6 +5,12 @@ Enhancing Surgical Efficiency through the Integration of Niryo Ned 2 Robot for E
 An average surgeon spends 15 hours carrying out medical surgeries and may need assistance in handing over the right instruments during the operation. The Niryo Ned 2 arm robot serves as the surgeon’s assistant by using vision camera to identify instruments kept in observation_place and handing it over to the give_place (doctor’s hand).
 After the surgeon is done using the instrument, it is handed over to the robot and it places the used instrument on the conveyor belt. The conveyor belt is set to motion to carry the used instruments for further sterilization.
 
+### Features:
+▸ Seamless integration of the Niryo Ned 2 robot as a Surgical Assistant
+▸ Efficient transfer of instruments from the robot to surgeon and vice-versa
+▸ Automated handling of used instruments for sterlization through a conveyor belt
+▸ Improved surgical workflow and safety
+
 #### Refer the following Ned ROS documentation for installation and setup:
 https://docs.niryo.com/dev/ros/v4.1.1/en/index.html
 
